@@ -15,10 +15,4 @@ Your goal is to determine how the average weight of the minimum spanning tree gr
 
 n = 16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8192
 
-and report the average for each value of n. (It is possible, that depending on your implementation you won’t be able
-to run it for the largest graphs. ) For each family of graphs, generate an appropriate figure that depicts your results.
-Clearly label the axes and think carefully about the most effective representation (should it be a bar chart, line chart,
-scatterplot, etc.). Also, interpret your results by giving (and plotting) two sample functions that characterize each
-of your depicted results. For example, your answer might be f (n) = 2 log n, f (n) = 1.5 n, etc. Also, provide a few sentences of intuition for why the growth rate of your functions f(n) are reasonable. Do this for both types of graphs separately.
-As per usual, submit both the written answer (and charts) as well as your code as part of your pdf submission in Gradescope.
-You will work on this assignment as individuals. However, the same collaboration policy applies as with any other assignment; you may discuss with classmates as long as the conclusions you write are your own and you disclose your collaboration.
+and report the average for each value of n. 
