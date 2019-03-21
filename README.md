@@ -3,7 +3,7 @@
 * Minimum Spanning Trees 
 Problem: 
 In this programming problem, we will be considering MSTs on complete, undirected graphs.
-A graph with n vertices is complete if all possible 􏲂n􏲃 edges are present in the graph. Consider the following two 2
+A graph with n vertices is complete if all possible (n,2) edges are present in the graph. Consider the following two 2
 types of graphs:
 
 • Complete graphs on n vertices, where the weight of each edge is a real number chosen uniformly at random
